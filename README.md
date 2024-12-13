@@ -15,7 +15,7 @@
    `./checkpoints/sam`
 
 3. **Create conda environment**
-   Work is only tested on
+   Work is only tested on torch 2.4.1+cu124
    Run the following command to create the Conda environment:
 ```bash
 conda env create -f envYML/environment.yaml

@@ -14,7 +14,7 @@
    Download the SAM-adapter checkpoint and configuration file from [provide link here] and place them under:  
    `./checkpoints/sam`
 
-3. **Create conda environment**
+3. **Create conda environment**  
    Work is only tested on torch 2.4.1+cu124.
    Run the following command to create the Conda environment:
 ```bash

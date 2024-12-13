@@ -14,9 +14,8 @@
    Download the SAM-adapter checkpoint and configuration file from [provide link here] and place them under:  
    `./checkpoints/sam`
 
----
-
-### Create Conda Environment
-Run the following command to create the Conda environment:
+3. **Create conda environment**
+   Work is only tested on
+   Run the following command to create the Conda environment:
 ```bash
 conda env create -f envYML/environment.yaml

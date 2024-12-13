@@ -11,7 +11,7 @@
    `./checkpoints/removal`
 
 2. **Download SAM-Adapter Checkpoint and Config**  
-   Download the SAM-adapter checkpoint and configuration file from [provide link here] and place them under:  
+   Download the SAM-adapter checkpoint and configuration file from (https://www.icloud.com/iclouddrive/0805Z4Vn4vD-G5aMKcjONYSyQ#for%5Fsam) and place them under:  
    `./checkpoints/sam`
 
 3. **Create conda environment**  

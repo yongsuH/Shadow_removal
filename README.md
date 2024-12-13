@@ -20,6 +20,7 @@
 ```bash
 conda env create -f envYML/environment.yaml
 ```
-4.  **state webUI**
+4.  **start webUI**
 ```bash
 python demoWeb.py
+```

@@ -7,7 +7,7 @@
 ### How to Run
 
 1. **Download Diffusion Model Checkpoint**  
-   Download the diffusion model checkpoint from [provide link here] and place it under:  
+   Download the diffusion model checkpoint from (https://drive.google.com/file/d/18xXVNpAZ9rhAd7K1iTcSSDerg0soDC-H/view?usp=drive_link) and place it under:  
    `./checkpoints/removal`
 
 2. **Download SAM-Adapter Checkpoint and Config**  

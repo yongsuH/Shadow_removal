@@ -19,3 +19,7 @@
    Run the following command to create the Conda environment:
 ```bash
 conda env create -f envYML/environment.yaml
+
+4.  **state webUI**
+'''bash
+python demoWeb.py
